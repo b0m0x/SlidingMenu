@@ -1,12 +1,8 @@
-*.class
-
-# Package Files #
-*.dex
-*.war
-*.ear
-*.apk
-bin/
-bin
+.idea/
+*.iml
+.settings/
+.classpath
+.project
 gen/
 release/
 release
@@ -22,3 +18,5 @@ local.properties
 *.*~
 build
 snippet
+bin/
+target/
